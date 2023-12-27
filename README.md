@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **NodeJS, ExpressJS, MongoDB**
 
-- 💬 Ask me about **ReactJS, Redux, Web Development**
+- 🎯 **MERN-Stack**
 
 - 📫 How to reach me **likithsaravana14@gmail.com**
 
