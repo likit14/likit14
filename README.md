@@ -8,7 +8,7 @@
 
 - 👀 Tech Enthusiast
 
-- 🌱 I’m currently learning **NodeJS, ExpressJS, MongoDB**
+- 🌱 I’m currently learning **NodeJS, ReactJS**
 
 - 🎯 **MERN-Stack**
 
