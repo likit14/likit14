@@ -34,7 +34,7 @@
 
 <h3>:handshake: CONNECT WITH ME</h3>
 <p align="left">
-<a href="mailto:likithsaravana14@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="mail" height="30" width="40" /></a>
+<a href="mailto:likithsaravana14@gmail.com" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fongpng.com%2Fstock-photography%2Fgmail-logo-png-image-3%2F&psig=AOvVaw0xQkYgroNTsUQqYSZxGk1L&ust=1708166293875000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIDzorrVr4QDFQAAAAAdAAAAABAE" alt="mail" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in//" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedIn" height="30" width="40" /></a>
 </p>
 
