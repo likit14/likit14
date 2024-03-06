@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m Likith</h1>
 
-<h3 align="center"> Passionate Front end developer </h3>
+<h3 align="center"> Software Developer </h3>
 
 <br/>
 
