@@ -63,12 +63,10 @@ Let's connect and build cool stuff together!
 
 ---
 
-### 📊 GitHub Stats & Metrics
+### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=likit14&show_icons=true&theme=radical&count_private=true" alt="Likith's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likit14&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://komarev.com/ghpvc/?username=likit14&label=Profile%20Views&color=0077b5&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -80,7 +78,7 @@ Let's connect and build cool stuff together!
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in//" target="_blank">
+  <a href="https://www.linkedin.com/in/likiths14" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
