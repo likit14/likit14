@@ -1,39 +1,88 @@
-<h1 align="center">👋 Hi, I’m Likith</h1>
-
-<h3 align="center"> &nbsp; Front-End Developer </h3>
-
-<br/>
-
-<img align="right" alt="coding" width="400" src="https://www.chawtechsolutions.com/mycts/wp-content/uploads/2019/03/developer-dribbble.gif"/>
-
-- 👀 Tech Enthusiast
-
-- 🌱 I’m currently learning **NodeJS, ReactJS**
-
-- 🎯 **MERN-Stack**
-
-- 📫 How to reach me **likithsaravana14@gmail.com**
-
-<br/>
-
-<h3>:hammer_and_wrench: LANGUAGES AND TOOLS </h3>
-<p align="left">
-    <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-      <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-          <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-    <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/> </a>
-    <a href="https://www.linux.org/pages/download/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/265px-Tux.svg.png" alt="linux" width="40" height="40"/> </a>
+<h1 align="center">👋 Hi, I'm Likith S</h1>
+<p align="center">
+  <strong>Cloud & DevOps Engineer | Kubernetes | AWS | CI/CD Automation | Full-Stack Experience</strong>
 </p>
 
-<br/>
+<p align="center">
+  <a href="https://github.com/likit14">
+    <img src="https://img.shields.io/github/followers/likit14?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+</p>
 
-<h3>:handshake: CONNECT WITH ME</h3>
+<hr />
+
+<img align="right" alt="coding" width="380" src="https://www.chawtechsolutions.com/mycts/wp-content/uploads/2019/03/developer-dribbble.gif"/>
+
+### 👨‍💻 About Me
+
+I'm a **Cloud & DevOps Engineer** working with tools like Jenkins, Docker, Kubernetes, AWS, and OpenStack. I enjoy building things that actually work — from CI/CD pipelines to full-stack applications. 
+
+- 🚀 Built automated pipelines with **Jenkins + SonarQube**.
+- 💻 Developed a complete app using **React, Flask, Express, MySQL, and Keycloak** (with RBAC), all fully Dockerized.
+- ⚙️ Work with **Linux systems** and cloud services like **OpenStack Skyline and Senlin**.
+- 📦 Storage and container orchestration expertise including **Ceph** and **Kubernetes**.
+- 💡 Always learning, always experimenting, and always excited to explore new tech. 
+
+Let's connect and build cool stuff together!
+
+---
+
+### 🛠️ Technologies & Tools
+
+#### ☁️ DevOps, Cloud & Infrastructure
 <p align="left">
-<a href="mailto:likithsaravana14@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="mail" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in//" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedIn" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
+  <img src="https://img.shields.io/badge/OpenStack-%23ED1941.svg?style=for-the-badge&logo=openstack&logoColor=white" alt="OpenStack" />
+  <img src="https://img.shields.io/badge/Ceph-%23F26522.svg?style=for-the-badge&logo=ceph&logoColor=white" alt="Ceph" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+#### 💻 Full-Stack Development
+<p align="left">
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361dafb" alt="React" />
+  <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+#### 🛡️ Databases & Security
+<p align="left">
+  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Keycloak-%23008EAA.svg?style=for-the-badge&logo=keycloak&logoColor=white" alt="Keycloak" />
+  <img src="https://img.shields.io/badge/Security-RBAC-red?style=for-the-badge" alt="RBAC" />
+</p>
+
+---
+
+### 📊 GitHub Stats & Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=likit14&show_icons=true&theme=radical&count_private=true" alt="Likith's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likit14&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+  <a href="mailto:likithsaravana14@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in//" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 <br/>
