@@ -63,14 +63,6 @@ Let's connect and build cool stuff together!
 
 ---
 
-### 📊 GitHub Activity & Metrics
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=likit14&label=Profile%20Views&color=0077b5&style=for-the-badge" alt="Profile Views" />
-</p>
-
----
-
 ### 🤝 Connect With Me
 
 <p align="left">
